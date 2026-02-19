@@ -261,12 +261,13 @@ st.markdown("---")
 # Footer
 col1, col2, col3 = st.columns(3)
 
+# Footer
+col1, col2, col3 = st.columns(3)
 with col1:
     st.markdown("""
     **👨‍💻 Desarrollado por:**
     
-    Claudio Catrambone  
-    Irvine Valley College
+    Claudio Trabattoni
     """)
 
 with col2:
