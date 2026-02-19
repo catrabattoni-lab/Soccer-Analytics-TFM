@@ -28,7 +28,7 @@ python-dotenv==1.0.1
 
 # === PDF GENERATION ===
 reportlab==4.2.5
-Pillow==11.0.0
+Pillow==10.4.0
 
 # === UTILITIES ===
 python-dateutil==2.9.0
