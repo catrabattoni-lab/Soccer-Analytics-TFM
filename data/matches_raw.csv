@@ -1,0 +1,436 @@
+day,location,opponent,result,score,goals_for,goals_against,equipo
+26,at,Bakersfield,T,0-0,0,0,Fullerton
+29,vs,West Valley,L,3-0,3,0,Fullerton
+31,vs,Lake Tahoe,W,3-2,3,2,Fullerton
+5,at,Oxnard,L,1-0,1,0,Fullerton
+9,at,Santa Monica,T,4-4,4,4,Fullerton
+16,vs,Cuyamaca,L,4-1,4,1,Fullerton
+23,vs,Norco,L,2-1,2,1,Fullerton
+30,vs,Santa Ana,W,1-0,1,0,Fullerton
+3,at,Cypress,T,1-1,1,1,Fullerton
+7,at,Santiago Canyon,T,0-0,0,0,Fullerton
+10,vs,Golden West,T,1-1,1,1,Fullerton
+14,at,Saddleback,L,2-1,2,1,Fullerton
+17,vs,Irvine Valley,L,4-2,4,2,Fullerton
+21,at,Orange Coast,W,1-0,1,0,Fullerton
+24,at,Santa Ana,W,2-0,2,0,Fullerton
+28,vs,Cypress,W,1-0,1,0,Fullerton
+31,vs,Santiago Canyon,W,3-0,3,0,Fullerton
+4,at,Golden West,T,2-2,2,2,Fullerton
+7,vs,Saddleback,W,3-0,3,0,Fullerton
+12,at,Irvine Valley,T,0-0,0,0,Fullerton
+14,vs,Orange Coast,W,2-1,2,1,Fullerton
+19,vs,San Diego City,W,1-0,1,0,Fullerton
+22,at,Cuyamaca,L,3-2,3,2,Fullerton
+23,at,College of Southern Nevada,W,2-0,2,0,Fullerton
+24,at,Arizona Western,L,2-0,2,0,Fullerton
+27,vs,Yavapai Junior College,W,1-0,1,0,Fullerton
+31,vs,Bakersfield,W,2-0,2,0,Fullerton
+1,at,Norco,L,3-1,3,1,Fullerton
+6,vs,Taft,T,1-1,1,1,Fullerton
+13,at,Cuyamaca,W,2-0,2,0,Fullerton
+17,vs,Santa Rosa,L,1-0,1,0,Fullerton
+1,at,Cypress,T,1-1,1,1,Fullerton
+4,vs,Orange Coast,W,2-1,2,1,Fullerton
+8,at,Santiago Canyon,W,4-0,4,0,Fullerton
+11,vs,Irvine Valley,W,2-1,2,1,Fullerton
+15,at,Santa Ana,W,2-0,2,0,Fullerton
+18,vs,Golden West,W,3-1,3,1,Fullerton
+22,at,Saddleback,W,3-0,3,0,Fullerton
+25,vs,Cypress,T,1-1,1,1,Fullerton
+29,at,Orange Coast,W,1-0,1,0,Fullerton
+1,vs,Santiago Canyon,W,2-0,2,0,Fullerton
+5,at,Irvine Valley,W,3-2,3,2,Fullerton
+8,vs,Santa Ana,T,0-0,0,0,Fullerton
+12,at,Golden West,T,1-1,1,1,Fullerton
+15,vs,Saddleback,W,1-0,1,0,Fullerton
+23,vs,Los Angeles City,W,1-0,1,0,Fullerton
+26,at,Long Beach,L,1-0,1,0,Fullerton
+25,at,Chaffey,W,2-0,2,0,Fullerton
+29,at,Bakersfield,W,2-1,2,1,Fullerton
+1,vs,West Valley,W,3-2,3,2,Fullerton
+3,vs,Richland College,L,4-1,4,1,Fullerton
+7,at,Cañada,W,2-1,2,1,Fullerton
+8,at,Santa Rosa,W,1-0,1,0,Fullerton
+19,vs,Norco,W,2-1,2,1,Fullerton
+22,vs,Cuyamaca,W,5-1,5,1,Fullerton
+26,at,Orange Coast,W,4-0,4,0,Fullerton
+29,vs,Irvine Valley,T,3-3,3,3,Fullerton
+3,at,Santa Ana,W,2-1,2,1,Fullerton
+6,vs,Saddleback,W,2-1,2,1,Fullerton
+10,at,Santiago Canyon,W,2-0,2,0,Fullerton
+13,vs,Cypress,W,4-0,4,0,Fullerton
+17,at,Golden West,W,3-0,3,0,Fullerton
+20,vs,Orange Coast,W,2-0,2,0,Fullerton
+24,at,Irvine Valley,W,3-2,3,2,Fullerton
+27,vs,Santa Ana,W,3-0,3,0,Fullerton
+31,at,Saddleback,T,1-1,1,1,Fullerton
+3,vs,Santiago Canyon,W,3-0,3,0,Fullerton
+7,at,Cypress,L,2-1,2,1,Fullerton
+9,vs,Golden West,W,4-1,4,1,Fullerton
+18,vs,Santa Barbara,L,8-7,8,7,Fullerton
+30,vs,Bakersfield,L,2-1,2,1,Fullerton
+2,vs,Desert,L,2-1,2,1,Fullerton
+4,vs,Lake Tahoe,W,1-0,1,0,Fullerton
+7,vs,Chaffey,L,3-1,3,1,Fullerton
+8,at,Cañada,W,2-1,2,1,Fullerton
+10,at,Santa Rosa,W,2-0,2,0,Fullerton
+13,vs,Oxnard,T,1-1,1,1,Fullerton
+20,at,Fresno City,W,1-0,1,0,Fullerton
+23,at,Cuyamaca,T,2-2,2,2,Fullerton
+27,vs,Cypress,L,1-0,1,0,Fullerton
+30,at,Santiago Canyon,W,7-1,7,1,Fullerton
+4,at,Golden West,W,2-0,2,0,Fullerton
+14,vs,Irvine Valley,T,0-0,0,0,Fullerton
+17,at,Orange Coast,W,5-0,5,0,Fullerton
+18,vs,Santa Ana,W,3-0,3,0,Fullerton
+21,at,Cypress,T,1-1,1,1,Fullerton
+25,vs,Santiago Canyon,W,3-1,3,1,Fullerton
+28,vs,Golden West,W,2-1,2,1,Fullerton
+4,vs,Orange Coast,W,4-0,4,0,Fullerton
+8,at,Irvine Valley,W,2-0,2,0,Fullerton
+10,at,Santa Ana,W,2-0,2,0,Fullerton
+19,vs,Cuyamaca,W,2-1,2,1,Fullerton
+22,vs,Long Beach,W,2-1,2,1,Fullerton
+26,at,Oxnard,L,2-1,2,1,Fullerton
+27,at,Oxnard,W,3-1,3,1,Fullerton
+31,at,Bakersfield,W,4-0,4,0,Fullerton
+3,vs,Dallas College Richland,L,2-0,2,0,Fullerton
+5,vs,Lake Tahoe,W,5-0,5,0,Fullerton
+8,at,Chaffey,L,2-1,2,1,Fullerton
+16,at,Cañada,W,3-1,3,1,Fullerton
+18,at,Santa Rosa,T,0-0,0,0,Fullerton
+21,vs,Cuyamaca,W,1-0,1,0,Fullerton
+24,vs,Compton,W,3-0,3,0,Fullerton
+28,at,Golden West,L,1-0,1,0,Fullerton
+1,vs,Santa Ana,L,4-2,4,2,Fullerton
+5,at,Orange Coast,W,4-0,4,0,Fullerton
+8,vs,Irvine Valley,L,1-0,1,0,Fullerton
+12,at,Santiago Canyon,W,2-0,2,0,Fullerton
+19,vs,Cypress,T,0-0,0,0,Fullerton
+22,vs,Golden West,T,2-2,2,2,Fullerton
+26,at,Santa Ana,T,3-3,3,3,Fullerton
+29,vs,Orange Coast,T,1-1,1,1,Fullerton
+2,at,Irvine Valley,W,5-0,5,0,Fullerton
+5,vs,Santiago Canyon,T,3-3,3,3,Fullerton
+12,at,Cypress,L,1-0,1,0,Fullerton
+20,vs,Antelope Valley,W,4-0,4,0,Fullerton
+23,at,Golden West,T,0-0,0,0,Fullerton
+29,at,Chaffey,L,6-3,6,3,Fullerton
+2,vs,Long Beach,L,2-1,2,1,Fullerton
+5,at,Cuyamaca,L,1-0,1,0,Fullerton
+9,at,Norco,L,4-3,4,3,Fullerton
+16,vs,San Bernardino Valley,T,3-3,3,3,Fullerton
+19,vs,San Diego Mesa,W,5-1,5,1,Fullerton
+26,vs,Los Angeles City,T,2-2,2,2,Fullerton
+30,at,Fullerton,L,1-0,1,0,Fullerton
+3,vs,Golden West,L,1-0,1,0,Fullerton
+7,at,Irvine Valley,L,4-1,4,1,Fullerton
+10,vs,Santiago Canyon,T,0-0,0,0,Fullerton
+14,at,Orange Coast,T,1-1,1,1,Fullerton
+17,vs,Saddleback,T,3-3,3,3,Fullerton
+21,vs,Cypress,T,0-0,0,0,Fullerton
+24,vs,Fullerton,L,2-0,2,0,Fullerton
+28,at,Golden West,W,1-0,1,0,Fullerton
+31,vs,Irvine Valley,W,2-1,2,1,Fullerton
+4,at,Santiago Canyon,T,1-1,1,1,Fullerton
+7,vs,Orange Coast,L,5-1,5,1,Fullerton
+12,at,Saddleback,L,3-1,3,1,Fullerton
+14,at,Cypress,L,3-0,3,0,Fullerton
+27,vs,LA Mission,L,2-1,2,1,Santa Ana
+30,vs,Desert,L,3-0,3,0,Santa Ana
+3,vs,Cuyamaca,T,2-2,2,2,Santa Ana
+6,vs,Chaffey,W,2-1,2,1,Santa Ana
+10,at,Long Beach,L,4-2,4,2,Santa Ana
+20,at,San Diego Mesa,W,2-1,2,1,Santa Ana
+1,at,Santiago Canyon,W,4-0,4,0,Santa Ana
+4,vs,Irvine Valley,T,2-2,2,2,Santa Ana
+8,at,Orange Coast,W,3-1,3,1,Santa Ana
+11,vs,Golden West,W,2-0,2,0,Santa Ana
+15,vs,Fullerton,L,2-0,2,0,Santa Ana
+18,at,Saddleback,L,1-0,1,0,Santa Ana
+22,at,Cypress,T,0-0,0,0,Santa Ana
+25,vs,Santiago Canyon,W,6-0,6,0,Santa Ana
+29,at,Irvine Valley,W,3-0,3,0,Santa Ana
+1,vs,Orange Coast,W,4-3,4,3,Santa Ana
+5,at,Golden West,W,3-2,3,2,Santa Ana
+8,at,Fullerton,T,0-0,0,0,Santa Ana
+12,vs,Saddleback,L,3-0,3,0,Santa Ana
+15,vs,Cypress,W,4-1,4,1,Santa Ana
+20,at,Cypress,T,2-2,2,2,Santa Ana
+29,at,Cuyamaca,L,3-2,3,2,Santa Ana
+1,vs,Chaffey,W,4-0,4,0,Santa Ana
+5,vs,LA Mission,L,4-3,4,3,Santa Ana
+8,vs,Palomar,T,3-3,3,3,Santa Ana
+12,vs,Long Beach,W,2-0,2,0,Santa Ana
+15,at,San Bernardino Valley,W,4-3,4,3,Santa Ana
+22,at,Desert,W,2-0,2,0,Santa Ana
+26,at,Santiago Canyon,T,0-0,0,0,Santa Ana
+29,vs,Saddleback,W,2-0,2,0,Santa Ana
+3,vs,Fullerton,L,2-1,2,1,Santa Ana
+6,at,Cypress,W,2-1,2,1,Santa Ana
+10,vs,Irvine Valley,T,2-2,2,2,Santa Ana
+13,at,Golden West,L,3-2,3,2,Santa Ana
+17,at,Orange Coast,L,3-2,3,2,Santa Ana
+20,vs,Santiago Canyon,W,4-1,4,1,Santa Ana
+24,at,Saddleback,T,1-1,1,1,Santa Ana
+27,at,Fullerton,L,3-0,3,0,Santa Ana
+31,vs,Cypress,T,1-1,1,1,Santa Ana
+3,at,Irvine Valley,T,1-1,1,1,Santa Ana
+7,vs,Golden West,W,2-0,2,0,Santa Ana
+9,vs,Orange Coast,W,4-1,4,1,Santa Ana
+18,at,Norco,L,2-0,2,0,Santa Ana
+26,vs,East Los Angeles,W,2-0,2,0,Santa Ana
+30,vs,Cuyamaca,T,2-2,2,2,Santa Ana
+2,vs,Oxnard,L,1-0,1,0,Santa Ana
+4,at,Mt. San Antonio,L,2-1,2,1,Santa Ana
+6,at,LA Mission,W,4-1,4,1,Santa Ana
+9,at,Palomar,T,2-2,2,2,Santa Ana
+13,vs,San Bernardino Valley,W,3-2,3,2,Santa Ana
+16,vs,LA Harbor,W,5-1,5,1,Santa Ana
+20,vs,Desert,T,1-1,1,1,Santa Ana
+27,at,Irvine Valley,L,1-0,1,0,Santa Ana
+30,vs,Golden West,T,2-2,2,2,Santa Ana
+7,vs,Orange Coast,W,4-0,4,0,Santa Ana
+11,vs,Cypress,W,1-0,1,0,Santa Ana
+14,at,Santiago Canyon,W,6-1,6,1,Santa Ana
+18,at,Fullerton,L,3-0,3,0,Santa Ana
+21,vs,Irvine Valley,T,0-0,0,0,Santa Ana
+25,at,Golden West,L,2-0,2,0,Santa Ana
+1,at,Orange Coast,W,4-1,4,1,Santa Ana
+4,at,Cypress,W,2-1,2,1,Santa Ana
+8,vs,Santiago Canyon,W,4-2,4,2,Santa Ana
+10,vs,Fullerton,L,2-0,2,0,Santa Ana
+16,vs,Santa Barbara,T,1-1,1,1,Santa Ana
+19,at,Mt. San Antonio,L,3-2,3,2,Santa Ana
+27,at,East Los Angeles,T,1-1,1,1,Santa Ana
+3,vs,Lake Tahoe,L,3-1,3,1,Santa Ana
+5,vs,West Valley,W,2-0,2,0,Santa Ana
+7,vs,LA Mission,W,2-1,2,1,Santa Ana
+10,vs,Palomar,W,2-0,2,0,Santa Ana
+14,at,LA Harbor,L,4-1,4,1,Santa Ana
+17,at,San Bernardino Valley,T,1-1,1,1,Santa Ana
+24,vs,Desert,L,2-1,2,1,Santa Ana
+1,at,Fullerton,W,4-2,4,2,Santa Ana
+8,at,Golden West,T,1-1,1,1,Santa Ana
+12,vs,Cypress,W,1-0,1,0,Santa Ana
+15,at,Irvine Valley,W,3-1,3,1,Santa Ana
+19,at,Orange Coast,W,5-0,5,0,Santa Ana
+24,vs,Santiago Canyon,W,3-0,3,0,Santa Ana
+26,vs,Fullerton,T,3-3,3,3,Santa Ana
+29,at,Santiago Canyon,L,2-1,2,1,Santa Ana
+2,vs,Golden West,T,2-2,2,2,Santa Ana
+5,at,Cypress,T,2-2,2,2,Santa Ana
+9,vs,Irvine Valley,L,1-0,1,0,Santa Ana
+12,vs,Orange Coast,W,3-1,3,1,Santa Ana
+20,vs,Irvine Valley,W,3-1,3,1,Santa Ana
+23,at,Mt. San Antonio,L,5-2,5,2,Santa Ana
+29,at,Citrus,W,6-2,6,2,Cypress
+2,at,Compton,W,4-1,4,1,Cypress
+5,vs,Long Beach,L,2-1,2,1,Cypress
+9,at,El Camino,T,1-1,1,1,Cypress
+12,at,East Los Angeles,W,3-2,3,2,Cypress
+19,vs,Moorpark,W,3-2,3,2,Cypress
+26,at,Taft,T,2-2,2,2,Cypress
+30,at,Santiago Canyon,W,4-1,4,1,Cypress
+3,vs,Fullerton,T,1-1,1,1,Cypress
+7,at,Saddleback,W,2-1,2,1,Cypress
+10,vs,Irvine Valley,L,2-0,2,0,Cypress
+17,vs,Orange Coast,W,2-0,2,0,Cypress
+20,at,Golden West,T,1-1,1,1,Cypress
+21,at,Santa Ana,T,0-0,0,0,Cypress
+24,vs,Santiago Canyon,W,5-0,5,0,Cypress
+28,at,Fullerton,L,1-0,1,0,Cypress
+31,vs,Saddleback,W,1-0,1,0,Cypress
+4,at,Irvine Valley,W,2-1,2,1,Cypress
+7,vs,Golden West,W,1-0,1,0,Cypress
+12,at,Orange Coast,W,2-1,2,1,Cypress
+14,vs,Santa Ana,W,3-0,3,0,Cypress
+19,vs,Palomar,W,1-0,1,0,Cypress
+22,at,Oxnard,L,3-2,3,2,Cypress
+27,vs,Taft,T,1-1,1,1,Cypress
+30,vs,Citrus,W,1-0,1,0,Cypress
+3,vs,Compton,W,2-0,2,0,Cypress
+6,vs,Long Beach,L,3-1,3,1,Cypress
+10,vs,El Camino,L,5-1,5,1,Cypress
+13,at,East Los Angeles,W,3-1,3,1,Cypress
+20,at,Moorpark,L,5-1,5,1,Cypress
+1,vs,Fullerton,T,1-1,1,1,Cypress
+4,at,Saddleback,T,1-1,1,1,Cypress
+8,at,Irvine Valley,W,2-1,2,1,Cypress
+11,vs,Orange Coast,T,2-2,2,2,Cypress
+15,at,Golden West,W,2-1,2,1,Cypress
+18,vs,Santiago Canyon,W,7-0,7,0,Cypress
+22,vs,Santa Ana,T,0-0,0,0,Cypress
+25,at,Fullerton,T,1-1,1,1,Cypress
+29,vs,Saddleback,W,2-1,2,1,Cypress
+1,vs,Irvine Valley,L,1-0,1,0,Cypress
+5,at,Orange Coast,T,3-3,3,3,Cypress
+8,vs,Golden West,L,2-1,2,1,Cypress
+12,at,Santiago Canyon,W,1-0,1,0,Cypress
+15,at,Santa Ana,L,4-1,4,1,Cypress
+20,vs,Santa Ana,T,2-2,2,2,Cypress
+23,at,Long Beach,L,3-1,3,1,Cypress
+25,vs,San Bernardino Valley,T,1-1,1,1,Cypress
+1,at,Citrus,L,5-1,5,1,Cypress
+5,at,Long Beach,L,3-1,3,1,Cypress
+8,at,Compton,L,3-1,3,1,Cypress
+12,at,El Camino,L,11-1,11,1,Cypress
+15,at,East Los Angeles,W,2-0,2,0,Cypress
+19,vs,Moorpark,W,1-0,1,0,Cypress
+26,at,Saddleback,L,4-2,4,2,Cypress
+29,vs,Orange Coast,T,1-1,1,1,Cypress
+3,at,Santiago Canyon,W,2-0,2,0,Cypress
+6,vs,Santa Ana,L,2-1,2,1,Cypress
+10,vs,Golden West,W,2-0,2,0,Cypress
+13,at,Fullerton,L,4-0,4,0,Cypress
+17,at,Irvine Valley,L,3-0,3,0,Cypress
+20,vs,Saddleback,W,3-2,3,2,Cypress
+24,at,Orange Coast,W,4-0,4,0,Cypress
+27,vs,Santiago Canyon,W,3-1,3,1,Cypress
+31,at,Santa Ana,T,1-1,1,1,Cypress
+3,at,Golden West,T,2-2,2,2,Cypress
+7,vs,Fullerton,W,2-1,2,1,Cypress
+9,vs,Irvine Valley,L,2-0,2,0,Cypress
+30,at,Palomar,T,1-1,1,1,Cypress
+6,vs,Long Beach,L,2-1,2,1,Cypress
+8,vs,Compton,T,1-1,1,1,Cypress
+9,vs,Citrus,W,2-0,2,0,Cypress
+16,at,East Los Angeles,W,1-0,1,0,Cypress
+20,at,Canyons,W,2-1,2,1,Cypress
+23,at,Moorpark,T,1-1,1,1,Cypress
+27,at,Fullerton,W,1-0,1,0,Cypress
+30,at,San Bernardino Valley,L,3-1,3,1,Cypress
+4,at,Irvine Valley,L,5-1,5,1,Cypress
+7,vs,Golden West,W,4-0,4,0,Cypress
+11,at,Santa Ana,L,1-0,1,0,Cypress
+14,vs,Orange Coast,W,3-1,3,1,Cypress
+18,vs,Santiago Canyon,W,3-1,3,1,Cypress
+21,vs,Fullerton,T,1-1,1,1,Cypress
+28,vs,Irvine Valley,T,1-1,1,1,Cypress
+1,at,Golden West,W,2-0,2,0,Cypress
+4,vs,Santa Ana,L,2-1,2,1,Cypress
+8,at,Orange Coast,W,2-0,2,0,Cypress
+10,at,Santiago Canyon,W,6-2,6,2,Cypress
+16,vs,Cuyamaca,L,1-0,1,0,Cypress
+27,vs,San Diego Mesa,W,3-1,3,1,Cypress
+31,at,Citrus,W,5-0,5,0,Cypress
+3,vs,Long Beach,L,1-0,1,0,Cypress
+10,at,Southwestern,W,1-0,1,0,Cypress
+14,vs,San Bernardino Valley,T,3-3,3,3,Cypress
+17,at,East Los Angeles,W,5-2,5,2,Cypress
+21,vs,Canyons,T,2-2,2,2,Cypress
+24,vs,Moorpark,L,2-0,2,0,Cypress
+28,at,Irvine Valley,W,2-0,2,0,Cypress
+1,vs,Golden West,L,4-2,4,2,Cypress
+8,vs,Orange Coast,W,2-0,2,0,Cypress
+12,at,Santa Ana,L,1-0,1,0,Cypress
+15,vs,Santiago Canyon,L,1-0,1,0,Cypress
+19,at,Fullerton,T,0-0,0,0,Cypress
+22,vs,Irvine Valley,L,2-1,2,1,Cypress
+26,at,Golden West,W,2-1,2,1,Cypress
+2,at,Orange Coast,W,4-1,4,1,Cypress
+5,vs,Santa Ana,T,2-2,2,2,Cypress
+9,at,Santiago Canyon,T,1-1,1,1,Cypress
+12,vs,Fullerton,W,1-0,1,0,Cypress
+20,at,Mt. San Antonio,L,3-1,3,1,Cypress
+26,vs,El Camino,L,2-1,2,1,Irvine Valley
+29,at,Hartnell,L,2-1,2,1,Irvine Valley
+30,vs,Cerritos,L,3-1,3,1,Irvine Valley
+9,at,Southwestern,W,2-1,2,1,Irvine Valley
+12,vs,San Diego Mesa,W,6-0,6,0,Irvine Valley
+19,at,Rio Hondo,W,3-1,3,1,Irvine Valley
+23,vs,Cuyamaca,L,3-2,3,2,Irvine Valley
+30,vs,Orange Coast,W,4-1,4,1,Irvine Valley
+3,at,Saddleback,W,5-3,5,3,Irvine Valley
+7,vs,Santa Ana,W,4-1,4,1,Irvine Valley
+10,at,Cypress,W,2-0,2,0,Irvine Valley
+14,vs,Santiago Canyon,W,6-0,6,0,Irvine Valley
+17,at,Fullerton,W,4-2,4,2,Irvine Valley
+21,vs,Golden West,L,3-2,3,2,Irvine Valley
+24,at,Orange Coast,W,2-0,2,0,Irvine Valley
+28,vs,Saddleback,W,3-2,3,2,Irvine Valley
+31,at,Santa Ana,L,2-1,2,1,Irvine Valley
+4,vs,Cypress,L,2-1,2,1,Irvine Valley
+7,at,Santiago Canyon,W,2-0,2,0,Irvine Valley
+12,vs,Fullerton,T,0-0,0,0,Irvine Valley
+14,vs,Golden West,W,3-2,3,2,Irvine Valley
+19,at,Long Beach,L,2-1,2,1,Irvine Valley
+27,at,El Camino,L,6-4,6,4,Irvine Valley
+30,vs,Fresno City,L,2-1,2,1,Irvine Valley
+31,vs,Cerritos,L,2-1,2,1,Irvine Valley
+6,vs,Southwestern,W,2-1,2,1,Irvine Valley
+10,vs,Rio Hondo,W,3-2,3,2,Irvine Valley
+13,at,San Diego Mesa,L,1-0,1,0,Irvine Valley
+17,at,Cuyamaca,L,5-2,5,2,Irvine Valley
+1,vs,Saddleback,L,2-1,2,1,Irvine Valley
+4,at,Santa Ana,T,2-2,2,2,Irvine Valley
+8,vs,Cypress,L,2-1,2,1,Irvine Valley
+11,at,Fullerton,L,2-1,2,1,Irvine Valley
+15,at,Santiago Canyon,W,3-1,3,1,Irvine Valley
+18,vs,Orange Coast,W,2-1,2,1,Irvine Valley
+22,vs,Golden West,W,1-0,1,0,Irvine Valley
+25,at,Saddleback,L,2-1,2,1,Irvine Valley
+29,vs,Santa Ana,L,3-0,3,0,Irvine Valley
+1,at,Cypress,W,1-0,1,0,Irvine Valley
+5,vs,Fullerton,L,3-2,3,2,Irvine Valley
+8,vs,Santiago Canyon,W,3-1,3,1,Irvine Valley
+12,at,Orange Coast,W,3-1,3,1,Irvine Valley
+15,at,Golden West,L,1-0,1,0,Irvine Valley
+29,vs,El Camino,L,3-0,3,0,Irvine Valley
+1,at,Hartnell,W,3-0,3,0,Irvine Valley
+2,vs,Fresno City,L,4-2,4,2,Irvine Valley
+8,at,Southwestern,W,3-1,3,1,Irvine Valley
+12,at,Rio Hondo,W,2-1,2,1,Irvine Valley
+15,vs,San Diego Mesa,W,3-1,3,1,Irvine Valley
+19,vs,Cuyamaca,W,2-1,2,1,Irvine Valley
+26,vs,Golden West,T,1-1,1,1,Irvine Valley
+29,at,Fullerton,T,3-3,3,3,Irvine Valley
+3,at,Orange Coast,W,4-3,4,3,Irvine Valley
+6,vs,Santiago Canyon,T,1-1,1,1,Irvine Valley
+10,at,Santa Ana,T,2-2,2,2,Irvine Valley
+13,vs,Saddleback,W,4-1,4,1,Irvine Valley
+17,vs,Cypress,W,3-0,3,0,Irvine Valley
+20,at,Golden West,W,3-1,3,1,Irvine Valley
+24,vs,Fullerton,L,3-2,3,2,Irvine Valley
+27,vs,Orange Coast,W,3-2,3,2,Irvine Valley
+31,at,Santiago Canyon,W,3-2,3,2,Irvine Valley
+3,vs,Santa Ana,T,1-1,1,1,Irvine Valley
+7,at,Saddleback,T,1-1,1,1,Irvine Valley
+9,at,Cypress,W,2-0,2,0,Irvine Valley
+18,at,Mt. San Antonio,L,1-0,1,0,Irvine Valley
+30,at,El Camino,L,3-0,3,0,Irvine Valley
+2,vs,Fresno City,L,3-1,3,1,Irvine Valley
+3,at,Hartnell,L,2-1,2,1,Irvine Valley
+6,vs,Rio Hondo,W,2-0,2,0,Irvine Valley
+9,vs,Southwestern,W,7-2,7,2,Irvine Valley
+13,at,LA Harbor,W,3-0,3,0,Irvine Valley
+16,at,San Diego Mesa,W,1-0,1,0,Irvine Valley
+20,vs,Imperial Valley,W,6-1,6,1,Irvine Valley
+23,vs,Taft,T,2-2,2,2,Irvine Valley
+27,vs,Santa Ana,W,1-0,1,0,Irvine Valley
+30,at,Orange Coast,L,2-1,2,1,Irvine Valley
+4,vs,Cypress,W,5-1,5,1,Irvine Valley
+7,at,Santiago Canyon,W,1-0,1,0,Irvine Valley
+14,at,Fullerton,T,0-0,0,0,Irvine Valley
+17,vs,Golden West,L,2-1,2,1,Irvine Valley
+21,at,Santa Ana,T,0-0,0,0,Irvine Valley
+25,vs,Orange Coast,W,5-1,5,1,Irvine Valley
+28,at,Cypress,T,1-1,1,1,Irvine Valley
+1,vs,Santiago Canyon,W,6-1,6,1,Irvine Valley
+4,at,Golden West,T,1-1,1,1,Irvine Valley
+8,vs,Fullerton,L,2-0,2,0,Irvine Valley
+16,vs,Antelope Valley,W,3-1,3,1,Irvine Valley
+19,at,El Camino,L,3-0,3,0,Irvine Valley
+1,at,Santiago Canyon,W,2-0,2,0,Irvine Valley
+5,vs,Golden West,L,3-1,3,1,Irvine Valley
+8,at,Fullerton,W,1-0,1,0,Irvine Valley
+12,at,Orange Coast,W,3-1,3,1,Irvine Valley
+15,vs,Santa Ana,L,3-1,3,1,Irvine Valley
+22,at,Cypress,W,2-1,2,1,Irvine Valley
+26,vs,Santiago Canyon,T,2-2,2,2,Irvine Valley
+29,at,Golden West,T,2-2,2,2,Irvine Valley
+2,vs,Fullerton,L,5-0,5,0,Irvine Valley
+5,vs,Orange Coast,T,1-1,1,1,Irvine Valley
+9,at,Santa Ana,W,1-0,1,0,Irvine Valley
+20,at,Santa Ana,L,3-1,3,1,Irvine Valley

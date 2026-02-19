@@ -19,11 +19,11 @@ build/
 .env.local
 
 # Data files
-*.csv
-*.xlsx
-*.xls
-data/*.csv
-data/*.xlsx
+# *.csv
+# *.xlsx
+#*.xls
+# data/*.csv
+# data/*.xlsx
 
 # Output files
 outputs/*.pdf
