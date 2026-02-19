@@ -27,8 +27,7 @@ st.title("📈 Análisis y Visualizaciones")
 st.markdown("Explora datos con gráficos interactivos y análisis con IA")
 st.markdown("---")
 
-# Tabs
-tab1, tab2, tab3 = st.tabs(["📊 Visualizaciones", "🤖 Análisis con IA", "📉 Comparaciones"])
+tab1, tab2 = st.tabs(["📊 Visualizaciones", "🤖 Análisis con IA"])
 
 # ============================================
 # TAB 1: VISUALIZACIONES
@@ -129,17 +128,3 @@ with tab2:
                 except Exception as e:
                     st.error(f"❌ Error al generar análisis: {str(e)}")
 
-# ============================================
-# TAB 3: COMPARACIONES
-# ============================================
-with tab3:
-    st.markdown("### 📉 Análisis Comparativo Multi-Equipo")
-    st.info("🚧 Esta funcionalidad se agregará en la Fase 3 del proyecto")
-    
-    st.markdown("""
-    **Próximamente:**
-    - Comparación de 4 equipos (IVC, Fullerton, Santa Ana, Cypress)
-    - Radar charts multi-equipo
-    - Heat maps de rendimiento
-    - Análisis de Academic Periodization
-    """)
